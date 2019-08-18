@@ -1,3 +1,4 @@
 # C# projects
-h1 The C# projects<br>
+h3 The C# projects
+-----------------------------------
 My diploma project: [Diploma](https://github.com/RadikSeyfullin/c-sharp-projects/tree/master/Radik)
