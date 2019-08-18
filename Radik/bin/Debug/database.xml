@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<settings>
+  <setting>
+    <name>powersuply</name>
+    <set>COM3</set>
+  </setting>
+  <setting>
+    <name>generator</name>
+    <set>192.168.0.60</set>
+  </setting>
+  <setting>
+    <name>analyzer</name>
+    <set>192.168.0.59</set>
+  </setting>
+  <setting>
+    <name>oscilloscope</name>
+    <set>192.168.0.145</set>
+  </setting>
+  <setting>
+    <name>freqcounter</name>
+    <set>192.168.0.95</set>
+  </setting>
+  <setting>
+    <name>gdm</name>
+    <set>COM4</set>
+  </setting>
+  <setting>
+    <name>microcontroller</name>
+    <set>COM2</set>
+  </setting>
+  <setting>
+    <name>generator2</name>
+    <set>192.168.0.124</set>
+  </setting>
+</settings>

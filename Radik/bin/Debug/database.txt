@@ -1,0 +1,7 @@
+powersuply|COM3
+generator|192.168.0.62
+analyzer|192.168.0.59
+oscilloscope|192.168.0.145
+freqcounter|192.168.0.95
+gdm|COM4
+microcontroller|COM2
