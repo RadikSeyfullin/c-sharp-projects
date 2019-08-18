@@ -1,3 +1,3 @@
-# c-sharp-projects
+# C# projects
 The C# projects
-My diploma project: https://github.com/RadikSeyfullin/c-sharp-projects/Radik
+My diploma project: [Diploma](https://github.com/RadikSeyfullin/c-sharp-projects/tree/master/Radik)
